@@ -59,18 +59,16 @@ The EDA notebook includes:
 ##  model training
 
 the model tains a classification model using
--Random forest Classifier
-
-the trained model can also be experimented with:
-Logistic Regression
-Decision tree
+    Random forest Classifier
+    Logistic Regression
+    Decision tree
 
 
 ## model Evaluation metrics
 
--Accuracy Score
--f1-score
--confusion metrics
-
+    Best model is Decision Tree classifier
+        accuracy: 0.8044692737430168
+        f1_score: 0.7368421052631579
+        roc_auc: 0.7834620334620336
 
 
